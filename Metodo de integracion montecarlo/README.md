@@ -1,6 +1,6 @@
 # Integración por Montecarlo
 
-## Por bombardeo
+## Por bombardeo (`monte.gbb`)
 
 1. Con la opción deslizadores, creo dos, uno llamado `a` para un parametro del que depende la función, y otro `n` del que dependerá el número de puntos aleatorios.
 2. En la casilla entrada escribo la función que depende del parámetro.
@@ -17,7 +17,7 @@
 El valor aproximado es el valor del número proporción.
 
 
-## Mediante evaluación en puntos aleatorios
+## Mediante evaluación en puntos aleatorios (`monte-teoria.gbb`)
 
 1. Mediante la orden deslizador, creo uno llamado `N` que controlará el numero de elementos.
 2. En la casilla de entrada, escribo la función.
