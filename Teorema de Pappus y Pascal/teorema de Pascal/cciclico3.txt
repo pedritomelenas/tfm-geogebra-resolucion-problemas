@@ -1,5 +1,0 @@
-1. Con la opción circunferencia creo una cualquiera.
-2. Marco 6 puntos en ella.
-3. Trazo los segmentos hasta crear el hexágono auto-intersecante, con la opción segmento.
-4. Saco los puntos de intersección de los lados con la opción intersección.
-5. Creo la recta que pasa por los puntos de intersección.

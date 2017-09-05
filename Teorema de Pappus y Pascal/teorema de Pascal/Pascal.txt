@@ -1,7 +1,0 @@
-1. Con la opción elipse creamos una elipse cualquiera.
-2. Marcamos seis puntos dentro de la misma, y los unimos mediante segmentos consiguiendo
-un hexágono.
-3. Creamos las rectas que pasan por dichos segmentos. 
-4. Miramos las intersecciones de las rectas de los lados opuestos del hexagono, y marcamos
- dichos puntos con la opción de intersección.
-5. Trazamos la recta que pasa por los puntos de intersección.
