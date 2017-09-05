@@ -1,4 +1,4 @@
-## Cálculo de $\pi$ por exhausción
+## Cálculo de $\pi$ por exhausción
 
 1. Con la opción deslizador, se construyen dos deslizadores, uno para `n` y otro para `m`. El corresondienteal valor `m` es el número de lados del polígono regular inscrito en la circunferencia, y el de `n` determina el número de subdivisionesde los lados del mismo.
 2. Con la opción circunferencia centro radio, consruyo una circunferencia centrada en cero y radio conocido en este caso 10.
