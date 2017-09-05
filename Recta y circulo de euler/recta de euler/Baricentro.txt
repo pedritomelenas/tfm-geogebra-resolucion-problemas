@@ -1,5 +1,0 @@
-1. Con la orden poligono creamos un triángulo cualquiera.
-2. Con la orden punto medio, calculamos los puntos medios de los tres lados.
-3. Con la orden recta calculamos las rectas que pasan por los vértices y los puntos medios de los lados.
-4. Con la opción intersección encontramos el punto de corte de dichas rectas.
-Este punto es el Baricentro.

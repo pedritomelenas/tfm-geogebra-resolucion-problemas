@@ -1,4 +1,0 @@
-1. Con la opción polígono, creamos un triángulo cualesquiera.
-2. Con la opción recta perpendicular, trazamos las rectas perpendiculares a los lados del triangulo que pasan por los vértices opuestos (alturas).
-3. Con la opción intersección, obtenemos el punto de corte de dichas rectas.
-Dicho punto de corte se conoce como Ortocentro.

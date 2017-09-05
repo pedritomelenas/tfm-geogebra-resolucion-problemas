@@ -1,8 +1,0 @@
-1. Con la opción polígono, construimos un triángilo cualquiera.
-2. Con la opción punto medio, obtenemos los puntos medios de los lados del triángulo.
-3. Con la opcion recta, trazamos las rectas que van desde los vértices a dichos puntos medios (medianas).
-4. Con la opción recta perpendicular, obtenemos las rectas perpendiculares que pasan por la mitad de los lados del triángulo (mediatrices).
-5. Con la opción recta perpendicular, obtenemos las rectas perpendiculares a los lados del triángulo que pasan por el vértice opuesto (alturas).
-6. Con la opción intersección, calculamos los puntos de corte de las alturas, las mediatrices y las medianas.
-7. Con la opción recta, trazo la recta que pasa por dichos puntos de intersección.
-A dicha recta se la conoce como recta de Euler.
