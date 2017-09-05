@@ -1,0 +1,2 @@
+1. Definimos un deslizador con un parámetro.
+2. Definimos la función en paramétricas, usando la orden curva en la casilla de entrada.

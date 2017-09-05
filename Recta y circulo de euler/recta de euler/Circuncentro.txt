@@ -1,0 +1,5 @@
+1. Con la opción poligono, creamos un triángulo cualesquiera.
+2. Con la opción punto medio, encontramos los puntos medios de los tres lados del triángulo.
+3. Con la opción recta perpendicular trazamos las perpendiculares que pasan por los puntos medios(mediatrices).
+4. Con la opción intersección, encontramos el punto de corte de dichas rectas.
+Este punto es el circuncentro.

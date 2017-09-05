@@ -1,0 +1,6 @@
+1º Con las opciones para crear superficies regulares, creo la esfera, el cono y el cilindro en la ubicación que me interesa. 
+   En este archivo en concreto el tamaño que le he impuesto es, radio 3 y altura igual a 6.
+2º Con la opción de deslizador creo tres planos que varien en función del parámetro establecido en le deslizador, ubicados en
+   los comienzos de las figuras para que varien dentro de ellas.
+3º Con la opción de intersección de dos superficies, intersecando los planos con las superficies optengo las circunferencias 
+   buscadas.

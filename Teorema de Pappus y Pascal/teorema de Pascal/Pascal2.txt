@@ -1,0 +1,5 @@
+1. Con la opción elipse creo una elipse cualquiera.
+2. Marco seis puntos en ella.
+3. Con la opción segmento, uno los segmentos hasta crear el hexágono auto-intersecante.
+4. Con la opción intersección saco los puntos de intersección de los lados del hexágono.
+5. Trazo la recta que une los puntos de intersección.
