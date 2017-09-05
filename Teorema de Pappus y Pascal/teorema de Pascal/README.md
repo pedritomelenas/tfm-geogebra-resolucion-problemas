@@ -1,5 +1,5 @@
 
-## Cciclico
+## Cciclico
 
 1. Con la opción circunferencia creo una cualquiera.
 2. Marco 6 puntos en ella.
@@ -8,7 +8,7 @@
 5. Creo la recta que pasa por los puntos de intersección.
 
 
-## Pascal
+## Pascal
 
 1. Con la opción elipse creamos una elipse cualquiera.
 2. Marcamos seis puntos dentro de la misma, y los unimos mediante segmentos consiguiendo
@@ -18,7 +18,7 @@ un hexágono.
  dichos puntos con la opción de intersección.
 5. Trazamos la recta que pasa por los puntos de intersección.
 
-## Pascal2
+## Pascal2
 
 1. Con la opción elipse creo una elipse cualquiera.
 2. Marco seis puntos en ella.
