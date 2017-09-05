@@ -21,7 +21,7 @@
 1. Con la hoja de cálculo del programa creamos 4 columnas.
 	- La primera , formada por los números naturales, en este caso hasta el 40
 	- La segunda, formada por los elementos de la sucesión de Fibonacci, a partir del tercero se definen por recurrencia.
-	- La tercera, formada por la divisiÛn de los elementos de la fila de Fibonacci, definida por recurrencia.
+	- La tercera, formada por la división de los elementos de la fila de Fibonacci, definida por recurrencia.
 	- La cuarta, formada por puntos en los que la primera coordenada son los elementos de la primera fila y la segunda los de la tercera.
 2. En la casilla de entrada escribimos la función constante, y = "número de oro"
 3. En la vista gráfica se observa como los los puntos se estabilizan alrededor de la función.
