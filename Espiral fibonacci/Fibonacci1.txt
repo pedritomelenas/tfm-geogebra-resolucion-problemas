@@ -1,8 +1,0 @@
-1. Con la hoja de cálculo del programa generamos tres columnas:
-	a) la primera columna, serán los numeros naturales en este caso hasta el 40
-	b) la segunda columna, estará formada por los elementos de la sucesión de Fibonacci
-	a partir del tercero la definimos recursivamente.
-	c) la tercera columna, está formada por los puntos en los que la primera columna esla primera coordenada 
-	y la segunda columna la segunda coordenada.
-2. En la casilla de entrada escribimos la función.
-3. En la vista gráfica aparecen la función y el listado de puntos. 
