@@ -1,4 +1,4 @@
-# Teorema de Pappus
+# Teorema de Pappus
 
 1. Con la opción recta dibujamos dos rectas oblicuas cualesquiera.
 2. Marcamos tres puntos en cada una de las rectas.
