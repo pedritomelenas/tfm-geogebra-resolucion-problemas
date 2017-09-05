@@ -1,4 +1,4 @@
-# Teorema de la altura
+# Teorema de la altura
 
 1. Con el botón de crear un polígono, creamos un triángulo cualquiera.
 2. Con el botón de recta perpendicular, trazamos la recta perpendicular a la base del triángulo que pasa por el vértice
