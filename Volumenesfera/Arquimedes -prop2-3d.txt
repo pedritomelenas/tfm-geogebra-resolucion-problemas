@@ -1,8 +1,0 @@
-1 Con el boton de crear conos y cilindros, y el boton de crear esferas, creo las superficies.
-Todas ella colocadas superpuestas.
-2 Trazo el plano que pasa por y=0 con el botón de trazar planos o escribiendo la ecuación del mismo.
-3 Creo un parametro para poder variar un plano con la ecuación z=parametro.
-4 Con el botón de intersección de dos superficies calculo las conicas y rectas resultantes
-de intersecar los planos con las superficies.
-5 Les pongo los nombres a los puntos de intersección para obtener la figura propuesta en la demostración.
- 
